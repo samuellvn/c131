@@ -5,7 +5,7 @@ var Status="";
 var objects=[];
 
 function preload(){
-    imagens=document.getElementById().innerHTML;
+    imagens=document.getElementById("test").innerHTML;
 }
 function setup(){
     canvas=createCanvas(640, 420);
